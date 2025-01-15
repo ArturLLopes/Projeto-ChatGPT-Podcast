@@ -14,8 +14,8 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 Esse Projeto foi feito para o curso de Formação ChatGPT for Devs da DIO.me.
 
 <p align="center">
-  <a href="https://soundcloud.com/artur-lopes-387961082/podcast-css-com-cafe-o-aroma-das-boas-praticas-no-desenvolvimento" title="Podcast IA" target="_blank"> 
-  preview do podcast 
+  <a href="https://soundcloud.com/artur-lopes-387961082/podcast-css-com-cafe-o-aroma-das-boas-praticas-no-desenvolvimento" target="_blank" title="Podcast IA" > 
+  Preview do podcast 🔊
 </p>
 
 <div align="center">
